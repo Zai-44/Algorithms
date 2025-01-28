@@ -1,5 +1,5 @@
 Algoritmo TablaDeMultiplicar
-	Escribir "¿Te sabe la tabla de multiplicar?"
+	Escribir "¿Te sabes la tabla de multiplicar?"
 	Leer conocimientoEnTablas
 	Si conocimientoEnTablas == "Si" || conocimientoEnTablas =="si" || conocimientoEnTablas=="SI" Entonces
 		//Le pregunto al ususario que tabla de multiplicar se sabe
