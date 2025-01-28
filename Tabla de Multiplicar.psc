@@ -1,14 +1,14 @@
 Algoritmo TablaDeMultiplicar
-	Escribir "¿Te sade la tabla de multiplicar?"
+	Escribir "Â¿Te sabe la tabla de multiplicar?"
 	Leer conocimientoEnTablas
 	Si conocimientoEnTablas == "Si" || conocimientoEnTablas =="si" || conocimientoEnTablas=="SI" Entonces
 		//Le pregunto al ususario que tabla de multiplicar se sabe
 		//I ask the user what multiplication table they know
-		Escribir "¿Qué tabla de multiplicar te sabes?"
+		Escribir "Â¿QuÃ© tabla de multiplicar te sabes?"
 		//Asignamos la respuesta del usuario a la variable tablaQueSabe
 		//We assign the user's response to the variable tablaQueSabe
-		Leer tablaQueSabe //Esperamos un número ej.5
-		//Le decimos que nos diga la tabla de multiplicación del 1 al 10
+		Leer tablaQueSabe //Esperamos un nÃºmero ej.5
+		//Le decimos que nos diga la tabla de multiplicaciÃ³n del 1 al 10
 		//We tell him to tell us the multiplication table from 1 to 10
 		//*************************************************************//
 		Escribir "La tabla del ", tablaQueSabe, + " multiplicado por 1 es: ", tablaQueSabe * 1
