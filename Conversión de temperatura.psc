@@ -1,5 +1,5 @@
-Algoritmo ConversionDeTemperatura
-	//We ask the user to enter the password.
+Algoritmo TemperatureConversion
+	//We ask the user to enter the temperature.
 		Escribir "Enter the temperature in degrees Celsius:"
 		Leer Celsius
 		//Enter the formula to transform the degrees
