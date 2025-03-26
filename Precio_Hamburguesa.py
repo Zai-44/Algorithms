@@ -12,12 +12,11 @@ mostaza = 0.85  # 10 grams of McCormick mustard
 
 # Fixed costs
 empaque = 4
-energia = 1
 mano_obra = 23
 alquiler = 5000  # Monthly rent
 
 # Estimated monthly hamburger sales
-hamburguesas_al_mes = 450  # Now 450 hamburgers are sold per month
+hamburguesas_al_mes = 400  # Now 400 hamburgers are sold per month
 alquiler_por_hamburguesa = alquiler / hamburguesas_al_mes  # Rental cost per hamburger
 
 # Calculation of the total cost for each hamburger
